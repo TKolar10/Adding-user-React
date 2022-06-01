@@ -1,0 +1,16 @@
+.new-user {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    background-color: white;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.new-user>p {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
